@@ -11,7 +11,7 @@ namespace _28._03._2018_console
         static void Main(string[] args)
         {
 
-
+            Console.WriteLine(  "Hello world!");
 
         }
     }
